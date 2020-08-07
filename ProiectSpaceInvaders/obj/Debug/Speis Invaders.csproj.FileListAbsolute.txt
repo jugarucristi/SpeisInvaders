@@ -1,0 +1,117 @@
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Form1.resources
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Properties.Resources.resources
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.GenerateResource.Cache
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.config
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.manifest
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.application
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.pdb
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe.manifest
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.application
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe
+C:\Users\Cristi\Desktop\ProiectSpaceInvaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.pdb
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.config
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.manifest
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.application
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.pdb
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csprojResolveAssemblyReference.cache
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Form1.resources
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Properties.Resources.resources
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.GenerateResource.Cache
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe.manifest
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.application
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe
+C:\Users\Cristi\Desktop\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.pdb
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.pdb
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csprojResolveAssemblyReference.cache
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Form1.resources
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Properties.Resources.resources
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.GenerateResource.Cache
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.CoreCompileInputs.cache
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.pdb
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.config
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.manifest
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.application
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.pdb
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe.manifest
+E:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.application
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.config
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.manifest
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.application
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.pdb
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csprojResolveAssemblyReference.cache
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Form1.resources
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Properties.Resources.resources
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.GenerateResource.Cache
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.CoreCompileInputs.cache
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe.manifest
+F:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.application
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csprojResolveAssemblyReference.cache
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Form1.resources
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Properties.Resources.resources
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.GenerateResource.Cache
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.CoreCompileInputs.cache
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.pdb
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.config
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.manifest
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.application
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\bin\Debug\Speis Invaders.pdb
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe.manifest
+D:\ProiectSpeisInvadersFinal\ProiectSpaceInvaders\obj\Debug\Speis Invaders.application
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.config
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.manifest
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.application
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.pdb
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csprojAssemblyReference.cache
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Form1.resources
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Properties.Resources.resources
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.GenerateResource.cache
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.CoreCompileInputs.cache
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe.manifest
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.application
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe
+E:\Cristi\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.pdb
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.config
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.manifest
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.application
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.pdb
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csprojAssemblyReference.cache
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Form1.resources
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Properties.Resources.resources
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.GenerateResource.cache
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe.manifest
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.application
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe
+C:\Users\Cristi\OneDrive\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.pdb
+C:\Users\Cristi\OneDrive\Liceu 2015-2019\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csprojAssemblyReference.cache
+C:\Users\Cristi\OneDrive\Liceu 2015-2019\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Form1.resources
+C:\Users\Cristi\OneDrive\Liceu 2015-2019\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Properties.Resources.resources
+C:\Users\Cristi\OneDrive\Liceu 2015-2019\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.GenerateResource.cache
+C:\Users\Cristi\OneDrive\Liceu 2015-2019\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\OneDrive\Liceu 2015-2019\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe
+C:\Users\Cristi\OneDrive\Liceu 2015-2019\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.pdb
+C:\Users\Cristi\Desktop\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csprojAssemblyReference.cache
+C:\Users\Cristi\Desktop\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Form1.resources
+C:\Users\Cristi\Desktop\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\ProiectSpaceInvaders.Properties.Resources.resources
+C:\Users\Cristi\Desktop\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.GenerateResource.cache
+C:\Users\Cristi\Desktop\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.csproj.CoreCompileInputs.cache
+C:\Users\Cristi\Desktop\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.exe
+C:\Users\Cristi\Desktop\Speis_Invaders\ProiectSpaceInvaders\obj\Debug\Speis Invaders.pdb
+C:\Users\Cristi\Desktop\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.config
+C:\Users\Cristi\Desktop\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe
+C:\Users\Cristi\Desktop\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.pdb
+C:\Users\Cristi\OneDrive\Liceu 2015-2019\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe.config
+C:\Users\Cristi\OneDrive\Liceu 2015-2019\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.exe
+C:\Users\Cristi\OneDrive\Liceu 2015-2019\Speis_Invaders\ProiectSpaceInvaders\bin\Debug\Speis Invaders.pdb
